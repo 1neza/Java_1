@@ -16,8 +16,8 @@ public class Homework1 {
 	//Day with Bash 02.27
 	System.out.println(" ");
 	System.out.println("Today am playing with bash commands navigating, file ops and bash visual cmds! ");
-	Sytem.out.println("");
-    	Sytem.out.println("Reaady to commit 12.01 all java codes writen in Bash no test no jokes <-->");
-	Sytem.out.println("");
+	System.out.println("");
+    	System.out.println("Reaady to commit 12.01 all java codes writen in Bash no test no jokes <-->");
+	System.out.println("");
     }
 }
